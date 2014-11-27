@@ -1,4 +1,1 @@
-tutorials
-=========
-
-Tutorials that will help you learn to use Linux.
+* [How to get help effectively.](help/gethelp.html)

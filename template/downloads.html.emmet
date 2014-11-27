@@ -1,0 +1,9 @@
+<section class="downloads">
+  <nav>
+    <a href="https://github.com/edge226/tutorials/zipball/gh-pages" class="top-btn">Download as .zip</a>
+    <a href="https://github.com/edge226/tutorials/tarball/gh-pages" class="top-btn">Download as .tar.gz</a>
+    <a href="https://github.com/edge226/tutorials" class="top-btn" target="_blank">View on GitHub</a>
+  </nav>
+</section>
+
+sect.downloads>nav((a.top-btn[href="https://github.com/edge226/tutorials/zipball/gh-pages"]{Download as .zip})+(a.top-btn[href="https://github.com/edge226/tutorials/tarball/gh-pages"]{Download as .tar.gz})+(a.top-btn[href="https://github.com/edge226/tutorials" target="_blank"]{View on GitHub}))
