@@ -16,30 +16,6 @@ Wasting others time is a good way to get yourself blacklisted when it comes to g
 
 ### Things not to do and things to do:
 
-#### Overstepping your own experience.
-
-Generally someone asks for information because they want to cover their bases. If someone asks you to paste a piece of information and you question why they need it. Immediately disregarding that the information asked for is needed. This is a great way to waste some ones time. Nobody wants to argue with you in order to help you. You may not think that information is relevent however, The person attempting to assist you would not be asking if they did not feel it was needed.
-
-#### Not providing any information about the issue.
-
-The number one reason that you may have trouble getting help is providing no background information at all on the issue.
-
-Provide as much information as you can about the issue, software you are running and what steps you have already done.
-
-Asking "How do I get IRC to not show my IP address?" and expecting other people to know what software you are using is wrong. You already know what IRC client you're using. Do not assume it is the 'job' of the person helping you to probe for this information. It is your job to provide it.
-
-#### Not asking any question at all.
-
-Simply saying a program does not work is an example that I see far too often. These issues probably never get resolved.
-
-"I am trying to use irc but it just does not work!"
-
-Note:
-
-1. What functionality are you trying to achieve with the program that does not work? "I am trying to get IRC not to show my IP address. Does anyone know how to do this in hexchat?."
-
-2. What are you trying to do? Maybe the program you are using is not suitable and another program is more appropriate. You have no idea what the person you are talking about may know.
-
 #### Not attempting to help yourself first.
 
 People spend their time writing documentation to make sure they can essentially multiply their time. Providing the steps needed once and not having to go through the information over and over again with each person that needs help.
@@ -71,6 +47,30 @@ Example:
 1. If you are having trouble finding the right search parameters then ask the right question. What search parameters should I use to find help with X?
 
 Doing this will help you learn what to search for, instead of magically getting the answer from another person and learning nothing.
+
+#### Overstepping your own experience.
+
+Generally someone asks for information because they want to cover their bases. If someone asks you to paste a piece of information and you question why they need it. Immediately disregarding that the information asked for is needed. This is a great way to waste some ones time. Nobody wants to argue with you in order to help you. You may not think that information is relevent however, The person attempting to assist you would not be asking if they did not feel it was needed.
+
+#### Not providing any information about the issue.
+
+The number one reason that you may have trouble getting help is providing no background information at all on the issue.
+
+Provide as much information as you can about the issue, software you are running and what steps you have already done.
+
+Asking "How do I get IRC to not show my IP address?" and expecting other people to know what software you are using is wrong. You already know what IRC client you're using. Do not assume it is the 'job' of the person helping you to probe for this information. It is your job to provide it.
+
+#### Not asking any question at all.
+
+Simply saying a program does not work is an example that I see far too often. These issues probably never get resolved.
+
+"I am trying to use irc but it just does not work!"
+
+Note:
+
+1. What functionality are you trying to achieve with the program that does not work? "I am trying to get IRC not to show my IP address. Does anyone know how to do this in hexchat?."
+
+2. What are you trying to do? Maybe the program you are using is not suitable and another program is more appropriate. You have no idea what the person you are talking about may know.
 
 #### Do not exclude other distribution documentation.
 
